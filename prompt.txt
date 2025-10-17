@@ -1,0 +1,3 @@
+Ajuste o seguinte comando curl para: 1) salvar a resposta em response.gz, 2) extrair o conteúdo, 3) imprimir na tela. Use o formato: curl [opções] -o response.tmp [URL] && gzip -c response.tmp > response.gz && rm response.tmp && gunzip -c response.gz
+
+[COLE SEU COMANDO CURL AQUI]
